@@ -19,8 +19,13 @@ new ICU patients coming in daily, and also the effect of Covid on the reproducti
 ![Dashboard 1](https://github.com/AnirudhPenmatcha/CovidDataAnalysis/assets/53865153/1b998a23-22ec-4e7b-a725-3d92afc69b3e)
 [Link to 1st Dashboard](https://public.tableau.com/views/CovidDashboard_17157168228460/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
+Some interesting insights drawn from the 1st dashboard:
+
 ![Dashboard 2](https://github.com/AnirudhPenmatcha/CovidDataAnalysis/assets/53865153/65fa6870-946a-4ef6-af27-4b944f0c3899)
 [Link to 2nd Dashboard](https://public.tableau.com/views/CovidDashboard2_17157305622110/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+Some interesting insights drawn from the 2nd dashboard:
+
 
 \
 \
