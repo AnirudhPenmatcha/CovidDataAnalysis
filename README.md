@@ -22,7 +22,7 @@ the other for numbers associated with hospitals such as number of vaccinations b
 [Link to 2nd Dashboard](https://public.tableau.com/views/CovidDashboard2_17157305622110/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
-
+**Citing the dataset used:**
 @article{owidcoronavirus,\
     author = {Edouard Mathieu and Hannah Ritchie and Lucas Rodés-Guirao and Cameron Appel and Charlie Giattino and Joe Hasell and Bobbie Macdonald and Saloni Dattani and Diana Beltekian and Esteban Ortiz-Ospina and Max Roser},\
     title = {Coronavirus Pandemic (COVID-19)},\
@@ -30,9 +30,3 @@ the other for numbers associated with hospitals such as number of vaccinations b
     year = {2020},\
     note = {https://ourworldindata.org/coronavirus}\
 }
-
-
-
-Before the dataset could be uploaded into the database, first it was manipulated in excel
-
-MySQL was used and dbeaver-ce was used as the GUI to interact with the database
