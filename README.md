@@ -1,6 +1,6 @@
 Here is an analysis performed on the information available for Covid from [ourworldindata.org](https://ourworldindata.org/covid-deaths)
 
-The data was first prepared in Excel, then cleaned and processed in SQL, and finally visualized in Tableau 
+The data was first prepared in **Excel**, then cleaned and processed in **SQL**, and finally visualized in **Tableau**. 
 
 ![Dashboard 1](https://github.com/AnirudhPenmatcha/CovidDataAnalysis/assets/53865153/1b998a23-22ec-4e7b-a725-3d92afc69b3e)
 [Link](https://public.tableau.com/views/CovidDashboard_17157168228460/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
