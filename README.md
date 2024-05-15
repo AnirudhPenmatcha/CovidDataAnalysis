@@ -36,5 +36,5 @@ Some interesting insights drawn from the 2nd dashboard:
     title = {Coronavirus Pandemic (COVID-19)},\
     journal = {Our World in Data},\
     year = {2020},\
-    note = {https://ourworldindata.org/coronavirus}\
+    note = {<https://ourworldindata.org/coronavirus>}\
 }
