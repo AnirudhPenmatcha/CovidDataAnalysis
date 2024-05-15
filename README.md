@@ -1,3 +1,8 @@
+Here is an analysis performed on the information available for Covid from ourworldindata.org
+
+![Dashboard 1](https://github.com/AnirudhPenmatcha/CovidDataAnalysis/assets/53865153/1b998a23-22ec-4e7b-a725-3d92afc69b3e)
+
+
 The dataset was obtained from https://ourworldindata.org/covid-deaths.
 
 @article{owidcoronavirus,\
