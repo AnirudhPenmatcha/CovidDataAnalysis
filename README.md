@@ -5,6 +5,9 @@ The data was first prepared in Excel, then cleaned and processed in SQL, and fin
 ![Dashboard 1](https://github.com/AnirudhPenmatcha/CovidDataAnalysis/assets/53865153/1b998a23-22ec-4e7b-a725-3d92afc69b3e)
 [Link](https://public.tableau.com/views/CovidDashboard_17157168228460/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
+![Dashboard 2](https://github.com/AnirudhPenmatcha/CovidDataAnalysis/assets/53865153/65fa6870-946a-4ef6-af27-4b944f0c3899)
+[Link](https://public.tableau.com/views/CovidDashboard2_17157305622110/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 The dataset was obtained from https://ourworldindata.org/covid-deaths.
 
 @article{owidcoronavirus,\
