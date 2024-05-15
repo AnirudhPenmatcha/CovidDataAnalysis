@@ -2,6 +2,19 @@ Here is an analysis performed on the information available for Covid from [ourwo
 
 The data was first prepared in **Excel**, then cleaned and processed in **SQL**, and finally visualized in **Tableau**. 
 
+1. For the preparation, two datasets were created with the help of Excel. One was mainly about the death and infection count and the other vacciation count. Both were exported as CSVs.
+The datasets were decently large both at size of approximately 400,000 records. 
+
+2. With the data prepared, next was to import it into MySQL. Attempt was made to import it directly into MySQL, however, using a GUI tool seemed to be the better option. MySQL workbench
+was the first choice. But it was slow in importing the large data size. Finally, dbeaver-ce worked effeciently with flexibility on several levels from importing to how the results are shown.
+
+3. Several [commands](https://github.com/AnirudhPenmatcha/CovidDataAnalysis/blob/main/CovidData.sql) in SQL were written to analyse and indentify interesting relationships and insights.
+Complex SQL functions such as CTEs, TempTables and joins were used to name a few.
+
+4. Finally, these commands were then selectively picked based on what could be especially valuable to visualize. Two dashboards were created. One for death and infection counts visualized
+the other for numbers associated with hospitals such as number of vaccinations being administered, number of new ICU patients daily, and also the effect of Covid on the reproduction rates. 
+
+
 ![Dashboard 1](https://github.com/AnirudhPenmatcha/CovidDataAnalysis/assets/53865153/1b998a23-22ec-4e7b-a725-3d92afc69b3e)
 [Link](https://public.tableau.com/views/CovidDashboard_17157168228460/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
