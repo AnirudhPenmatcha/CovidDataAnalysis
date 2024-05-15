@@ -23,8 +23,7 @@ new ICU patients coming in daily, and also the effect of Covid on the reproducti
 [Link to 2nd Dashboard](https://public.tableau.com/views/CovidDashboard2_17157305622110/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 \
-**Citing the dataset used:**
-
+**Citing the dataset used:**\
 @article{owidcoronavirus,\
     author = {Edouard Mathieu and Hannah Ritchie and Lucas Rodés-Guirao and Cameron Appel and Charlie Giattino and Joe Hasell and Bobbie Macdonald and Saloni Dattani and Diana Beltekian and Esteban Ortiz-Ospina and Max Roser},\
     title = {Coronavirus Pandemic (COVID-19)},\
